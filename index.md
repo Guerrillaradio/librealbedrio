@@ -10,3 +10,4 @@
 <P>
 <a href="https://guerrillaradio.github.io/confudir_el_mapa_con_el_territorio/"><div><font color="#00ff00">铀</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>  <a href="https://guerrillaradio.github.io/watchtower/"><div><font color="#00ff00">235</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a> 
 
+<a href="https://guerrillaradio.github.io/confudir_el_mapa_con_el_territorio/">铀</a>  <a href="https://guerrillaradio.github.io/watchtower/">235</a>
