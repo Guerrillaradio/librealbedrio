@@ -8,4 +8,4 @@
 
 <p>
 <P>
-<a href="https://guerrillaradio.github.io/confudir_el_mapa_con_el_territorio/">铀</a>  <a href="https://guerrillaradio.github.io/watchtower/">235</a>
+<a href="https://guerrillaradio.github.io/confudir_el_mapa_con_el_territorio/">铀</a><a href="https://guerrillaradio.github.io/watchtower/">235</a>
